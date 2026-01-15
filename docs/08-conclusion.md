@@ -305,7 +305,7 @@ AI工具让优秀的开发者更加高效，但不能让不思考的人变成优
 
 ---
 
-**上一章**: [实战案例](./07-practical-cases.md)
+**上一章**: [实战案例](./07-practical-cases.md) | **下一章**: [Agentic Coding 最佳实践](./09-agentic-coding.md)
 
 ## 附录
 
