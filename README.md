@@ -14,6 +14,7 @@ ai工具高效使用最佳实践手册 - 帮助开发者和团队更高效地使
 6. [安全与隐私](./docs/06-security-privacy.md) - 使用AI工具时的安全注意事项
 7. [实战案例](./docs/07-practical-cases.md) - 真实场景下的应用示例
 8. [总结与展望](./docs/08-conclusion.md) - 核心要点与未来趋势
+9. [Agentic Coding 最佳实践](./docs/09-agentic-coding.md) - 理解LLM本质、AI协作策略、复利工程
 
 ## 🎯 适用人群
 
@@ -52,6 +53,14 @@ ai工具高效使用最佳实践手册 - 帮助开发者和团队更高效地使
 - 高级技巧（Few-Shot Learning、Chain-of-Thought）
 - 针对不同任务的提示词策略
 - 常用提示词模板
+
+### Agentic Coding
+- LLM第一性原理（自回归生成、注意力机制）
+- Coding Agent的局限性分析
+- 核心策略：短对话、精简上下文
+- 复利工程：沉淀可复用知识
+- 开发者体验的双重价值
+- 刻意练习成为AI协作专家
 
 ### 安全与隐私
 - 核心安全原则
