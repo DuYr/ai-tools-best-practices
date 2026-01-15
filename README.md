@@ -1,4 +1,4 @@
-# AI工具最佳实践手册
+# Agent工具最佳实践手册
 
 ai工具高效使用最佳实践手册 - 帮助开发者和团队更高效地使用AI辅助工具
 
@@ -6,7 +6,7 @@ ai工具高效使用最佳实践手册 - 帮助开发者和团队更高效地使
 
 ### 核心章节
 
-1. [简介](./docs/01-introduction.md) - AI工具最佳实践概述
+1. [简介](./docs/01-introduction.md) - Agent工具最佳实践概述
 2. [GitHub Copilot 最佳实践](./docs/02-github-copilot.md) - 代码补全、对话式编程技巧
 3. [ChatGPT/Claude 应用最佳实践](./docs/03-chatgpt-claude.md) - 代码生成、问题解决、架构设计
 4. [提示词工程指南](./docs/04-prompt-engineering.md) - 如何编写高质量的提示词
